@@ -1,0 +1,9 @@
+# Normalize source and text files to LF
+* text=auto eol=lf
+
+# Keep test data byte-for-byte as the judges wrote it
+*.in  -text
+*.ans -text
+*.out -text
+
+*.pdf binary

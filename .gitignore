@@ -1,0 +1,22 @@
+# Hidden judge test data: download from the GitHub release (see README)
+secret/
+
+# Original archives
+*.zip
+
+# Build output
+a.out
+*.o
+*.exe
+*.class
+*.out.txt
+__pycache__/
+*.pyc
+sol
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
